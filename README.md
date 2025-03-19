@@ -21,7 +21,7 @@ Clone the repo and get started:
 
 ```sh
 # Clone the repository
-git clone https://github.com/yourusername/calculator.git
+git clone https://github.com/bh4gav/calculator.git
 cd calculator
 ```
 
